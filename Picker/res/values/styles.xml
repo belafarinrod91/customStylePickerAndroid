@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="shadowed_button">
+	    <item name="android:shadowColor">#222222</item>
+	    <item name="android:shadowDx">3</item>
+	    <item name="android:shadowDy">3</item>
+	    <item name="android:shadowRadius">5</item>
+	</style>
+	<style name="divider">
+	    <item name="android:layout_width">fill_parent</item>
+	    <item name="android:layout_height">1dip</item>
+	    <item name="android:background">#FFDADADA</item>
+	</style>
+	<style name="TextStyle">
+    </style>
+    <style name="ListStyle">
+        <item name="android:divider">#20000000</item>
+        <item name="android:dividerHeight">1dp</item>
+    </style>
+    <style name="AppTheme">
+    </style>
+</resources>
